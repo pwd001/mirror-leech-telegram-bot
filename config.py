@@ -10,7 +10,7 @@ CMD_SUFFIX = "1"
 AUTHORIZED_CHATS = "-1002167175645"
 SUDO_USERS = "5866664347"
 DATABASE_URL = "mongodb+srv://kaushaly0541:kaushaly0541600@cluster0.mezlojc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-STATUS_LIMIT = 10
+STATUS_LIMIT = 5
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
